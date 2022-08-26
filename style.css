@@ -1,0 +1,117 @@
+
+@font-face {
+    font-family: "myFont";
+    src: url("myFont.woff2");
+  }
+  .purple_heighlight{
+    color:rgb(226, 83, 147);
+  }
+  #thickness
+  {
+    font-size: 35px;
+    font-weight:1;
+  }
+  h1{
+    font-size:40px;
+  }
+  h3{
+    font-size: 30px;
+  }
+  .experience{
+    width:40%;
+    margin-left: 5%;
+    padding-left: 1%;
+  }
+  .half-section{
+    width:40%;
+    margin-left: 5%;
+    padding-left: 1%;
+    float:left;
+
+  }
+  .half-section img{
+    width:50%;
+
+  }
+  #image{
+    width:60%;
+    
+    
+  }
+  body{
+    margin: 0px;
+  }
+  .name{
+   background-image:url("png/header-bg.png");
+
+  }
+  section{
+    height: 500px;
+    padding-bottom: 200px;
+  }
+  .linkbutton{
+    text-decoration: none;
+    background-color: orange;
+    padding:7px 9px;
+    border-radius: 5px;
+    color:floralwhite;
+    background-image:linear-gradient(45 deg ,lightsalmon,tomato);
+    font-weight: 700;
+  }
+  .font{
+    font-size: 40px;
+  }
+  .font2{
+    font-size: 25px;
+    color:dimgray;
+  }
+  .dream{
+   background-image: url("png/biography-bg.png");
+    
+  }
+  .single-experience{
+    box-shadow:10px 12px 38px gray;
+    border-radius: 15px;
+    height: 80%;
+  padding: 1%;
+  }
+  .exparience-area
+  {
+    background-image:url("png/exp-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+  #Full-stack
+  {
+    border-left: 7px solid orange;
+  
+  }
+  #infant{
+    border-left: 6px solid blue;
+    
+  }
+  
+   .OneThird {
+    height:300px;
+ width: 25%;
+ 
+    float:left;
+    object-fit: contain;
+    
+   }
+   img{
+    height: 100%;
+ width: 100%;
+ 
+   }
+   #pic1{
+    margin-left:10%;
+   }
+   #pic3{
+    margin-right: 10%;
+   }
+   #pic2{
+    margin-left:2%;
+    margin-right:2%;
+   }
+  
